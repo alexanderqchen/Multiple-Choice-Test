@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\alexa\documents\visual studio 2017\projects\multiple choice\multiple choice\source.cpp(46): warning C4715: 'Question::check': not all control paths return a value
+  Multiple Choice.vcxproj -> C:\Users\alexa\documents\visual studio 2017\Projects\Multiple Choice\Debug\Multiple Choice.exe
+  Multiple Choice.vcxproj -> C:\Users\alexa\documents\visual studio 2017\Projects\Multiple Choice\Debug\Multiple Choice.pdb (Partial PDB)
